@@ -1,5 +1,5 @@
 {
-  "name": "ChatMultiroom",
+  "name": "chat-multi-room",
   "version": "1.0.0",
   "description": "Chat multi room my friends",
   "main": "index.js",
